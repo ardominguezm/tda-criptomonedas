@@ -1,2 +1,25 @@
-# tda-criptomonedas
-Tda cripto
+# Análisis Topológico de Criptomonedas mediante *Persistence Landscape* (Paisajes de Persistencia)
+
+Este repositorio contiene los datos, algoritmos y código desarrollados para la investigación
+presentada en la ponencia del SEIO 2023 titulada:
+
+“Análisis topológico de series temporales multivariadas de criptomonedas mediante paisajes de persistencia”.
+
+El objetivo de esta investigación es caracterizar la dinámica conjunta de las criptomonedas
+Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC) y Dogecoin (DOGE) mediante técnicas de 
+Topological Data Analysis (TDA), específicamente a través de diagramas de persistencia y 
+paisajes de persistencia (persistence landscapes). 
+
+Se calculan normas L1 y L2 de los paisajes de persistencia asociados a la homología 1 (H1),
+que capturan la presencia de ciclos en la nube de puntos embebida en R^4.
+
+Los datos y el código se organizan siguiendo principios FAIR (Findable, Accessible,
+Interoperable, Reusable). La estructura del repositorio es:
+
+- `data/raw`: Datos crudos descargados desde Yahoo Finance.
+- `data/processed`: Datos limpios, retornos y descriptores TDA.
+- `data/metadata`: Diccionario de variables, procedencia y documentación.
+- `data/analysis`: Figuras, tablas y resultados del análisis.
+- `code`: Notebooks y scripts de procesamiento y análisis.
+- `docs`: Documentación extendida del proyecto.
+
