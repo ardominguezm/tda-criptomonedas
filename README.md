@@ -1,7 +1,6 @@
 # Análisis Topológico de Criptomonedas mediante *Persistence Landscape* (Paisajes de Persistencia)
 
-Este repositorio contiene los datos, algoritmos y código desarrollados para la investigación
-presentada en la ponencia del SEIO 2023 titulada:
+Este repositorio contiene los datos, algoritmos y código desarrollados para la investigación presentada en la ponencia del Congreso SEIO 2023, Elche, España, 7-10 noviembre, titulada:
 
 Domínguez-Monterroza A, Mateos-Caballero A, Jiménez-Martín A, *Análisis Topológico de Datos Aplicado al Mercado de Criptomonedas*
 
