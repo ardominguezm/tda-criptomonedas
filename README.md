@@ -3,7 +3,7 @@
 Este repositorio contiene los datos, algoritmos y código desarrollados para la investigación
 presentada en la ponencia del SEIO 2023 titulada:
 
-*Análisis topológico de series temporales multivariadas de criptomonedas mediante paisajes de persistencia*
+Domínguez-Monterroza A, Mateos-Caballero A, Jiménez-Martín A,*Análisis topológico de series temporales multivariadas de criptomonedas mediante paisajes de persistencia*
 
 El objetivo de esta investigación es caracterizar la dinámica conjunta de las criptomonedas Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC) y Dogecoin (DOGE) mediante técnicas de  Topological Data Analysis (TDA), específicamente a través de diagramas de persistencia y  paisajes de persistencia (persistence landscapes). 
 
