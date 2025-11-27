@@ -1,0 +1,12 @@
+variable,descripcion,tipo,origen
+Date,Fecha del registro,date,raw
+BTC,Precio diario Bitcoin,float,raw
+ETH,Precio diario Ethereum,float,raw
+LTC,Precio diario Litecoin,float,raw
+DOGE,Precio diario Dogecoin,float,raw
+r_BTC,Retorno log BTC,float,processed
+r_ETH,Retorno log ETH,float,processed
+r_LTC,Retorno log LTC,float,processed
+r_DOGE,Retorno log DOGE,float,processed
+L1,Norma L1 del persistence landscape (H1),float,tda
+L2,Norma L2 del persistence landscape (H1),float,tda
