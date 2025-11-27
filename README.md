@@ -1,4 +1,4 @@
-# Análisis Topológico de Datos en el Mercado Criptomonedas mediante *Persistence Landscape* 
+# Análisis Topológico de Datos en el Mercado de Criptomonedas mediante *Persistence Landscape* 
 
 Este repositorio contiene los datos, algoritmos y código desarrollados para la investigación presentada en la ponencia del Congreso SEIO 2023, Elche, España, 7-10 noviembre, titulada:
 
