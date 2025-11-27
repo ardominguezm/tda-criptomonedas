@@ -1,0 +1,26 @@
+Pipeline general del proyecto:
+
+1. Descarga de datos:
+   - Notebook 01_descarga_datos.ipynb
+   - Obtención de precios diarios de BTC, ETH, LTC y DOGE
+   - Fuente: Yahoo Finance
+
+2. Preprocesamiento:
+   - Notebook 02_preprocesamiento.ipynb
+   - Limpieza de datos, ordenamiento temporal
+   - Cálculo de retornos logarítmicos
+   - Exportación a data/processed/
+
+3. Análisis topológico (TDA):
+   - Notebook 03_pipeline_TDA.ipynb
+   - Cálculo de diagramas de persistencia (H0, H1)
+   - Construcción de Persistence Landscapes (H1)
+   - Cálculo de normas L1 y L2
+   - Ventanas deslizantes
+
+4. Visualización:
+   - Notebook 04_visualizaciones.ipynb
+   - Figuras de retornos, normas H1, comparaciones por ventanas
+   - Exportación a data/analysis/
+
+Todas las etapas son reproducibles desde cero.
