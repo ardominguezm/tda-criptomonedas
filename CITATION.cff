@@ -4,6 +4,11 @@ title: "Análisis topológico de criptomonedas mediante paisajes de persistencia
 authors:
   - family-names: "Domínguez-Monterroza"
     given-names: "Andy"
+  - family-names: "Mateos-Caballero"
+    given-names: "Alfonso"
+  - family-names: "Jiménez-Martín"
+    given-names: "Alfonso"
+
 license: "MIT"
 keywords:
   - Topological Data Analysis
