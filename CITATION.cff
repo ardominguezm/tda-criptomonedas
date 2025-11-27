@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Por favor cite este repositorio si utiliza este código o datos."
+title: "Análisis topológico de criptomonedas mediante paisajes de persistencia (SEIO 2023)"
+authors:
+  - family-names: "Domínguez-Monterroza"
+    given-names: "Andy"
+license: "MIT"
+keywords:
+  - Topological Data Analysis
+  - Persistence Landscapes
+  - Cryptocurrencies
+  - SEIO 2023
