@@ -1,0 +1,13 @@
+{
+  "dataset_name": "Series históricas de criptomonedas (2018-2020)",
+  "source": "Yahoo Finance via yfinance",
+  "tickers": ["BTC-USD", "ETH-USD", "LTC-USD", "DOGE-USD"],
+  "date_download": "2023-10-01",
+  "author": "Andy Domínguez-Monterroza",
+  "project": "TDA aplicado a criptomonedas (SEIO 2023)",
+  "raw_file": "../data/raw/criptomonedas_2018_2020_raw.csv",
+  "raw_file_md5": "COMPLETAR",
+  "period_start": "2018-01-01",
+  "period_end": "2020-12-30",
+  "notes": "Datos descargados sin ajuste automático. Precios seleccionados por prioridad: Adj Close > Close > Price."
+}
