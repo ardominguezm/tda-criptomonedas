@@ -10,7 +10,7 @@ Se calculan normas L1 y L2 de los paisajes de persistencia asociados a la homolo
 
 La estructura del repositorio es:
 
-- `data/raw`: Datos crudos descargados desde Yahoo Finance (API yfinance Python).
+- `data/raw`: Datos crudos descargados desde Yahoo Finance (API *yfinance* Python).
 - `data/processed`: Datos limpios, retornos y descriptores TDA.
 - `data/metadata`: Diccionario de variables, procedencia y documentación.
 - `data/analysis`: Figuras, tablas y resultados del análisis.
