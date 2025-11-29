@@ -2,7 +2,9 @@
 
 Este repositorio contiene los datos, algoritmos y código desarrollados para la investigación presentada en la ponencia del Congreso SEIO 2023, Elche, España, 7-10 noviembre, titulada:
 
-Domínguez-Monterroza A, Mateos-Caballero A, Jiménez-Martín A, *Análisis Topológico de Datos Aplicado al Mercado de Criptomonedas*
+**Funding:** This study was supported by the Grants PID2021-122209OB-C31 and RED2022-134540-T funded by MICIU/AEI/10.13039/501100011033.
+
+> Domínguez-Monterroza A, Mateos-Caballero A, Jiménez-Martín A, *Análisis Topológico de Datos Aplicado al Mercado de Criptomonedas*, SEIO 2023, Elche, España, 7-10 noviembre 2023.
 
 El objetivo de esta investigación es caracterizar la dinámica conjunta de las criptomonedas Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC) y Dogecoin (DOGE) mediante técnicas de  Topological Data Analysis (TDA), específicamente a través de diagramas de persistencia y  paisajes de persistencia (persistence landscapes). 
 
@@ -16,4 +18,6 @@ La estructura del repositorio es:
 - `data/analysis`: Figuras, tablas y resultados del análisis.
 - `code`: Notebooks y scripts de procesamiento y análisis.
 - `docs`: Documentación extendida del proyecto.
+---
+
 
